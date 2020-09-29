@@ -1,7 +1,7 @@
 <h1>Inverted Index Generator</h1>
 
 <p>
-  This is an Inverted Index Generator implementated in Python3. 
+  This is an Inverted Index Generator implemented in Python3. 
 
   Inverted Index is a list of postings of all unique terms for all documents in a corpus. It is an index data structure storing a mapping from content, such as words or numbers, to its locations in a document or a set of documents. It is used for text search in large document sets.
 </p>
